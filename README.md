@@ -18,3 +18,8 @@ Visit now by clicking [here](https://findfire.herokuapp.com/)
 - Gmaps API
 
 That's it! there you have a well crafted website to show wildfire location.
+
+![image](https://user-images.githubusercontent.com/85540091/171779295-554b88ad-d414-4e4c-80b6-99002e47685c.png)
+
+![image](https://user-images.githubusercontent.com/85540091/171779327-9ebbebf1-e106-44bf-98cf-0bd329affd9d.png)
+
